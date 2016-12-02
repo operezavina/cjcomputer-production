@@ -388,7 +388,7 @@ include 'header.php';
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>More details about our services</h2>
+                        <h2>Details about our services</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
@@ -489,7 +489,7 @@ include 'header.php';
                                 <div class="panel-heading">
                                   <h3 class="panel-title">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFive1">
-                                      Web develpment
+                                      Web development
                                       <i class="fa fa-angle-right pull-right"></i>
                                     </a>
                                   </h3>

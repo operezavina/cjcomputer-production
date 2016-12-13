@@ -344,7 +344,7 @@ include 'header.php';
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="skill">
                         <h2>Our Skills</h2>
-                        <p> Our team memebers have more than 10 years of experience.</p>
+                        <p> Our team members have more than 10 years of experience.</p>
 
                         <div class="progress-wrap">
                             <h3>Graphic Design</h3>
